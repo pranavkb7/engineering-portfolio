@@ -5,6 +5,8 @@
 <p align="center">
   <a href="projects/README.md"><strong>View projects</strong></a>
   &nbsp; · &nbsp;
+  <a href="projects/hytecs/README.md">HYTECS projects</a>
+  &nbsp; · &nbsp;
   <a href="https://github.com/pranavkb7">About me</a>
   &nbsp; · &nbsp;
   <a href="mailto:pranavkbijith@gmail.com">Contact me</a>
@@ -21,6 +23,12 @@ This portfolio is organized to show how I build video systems, interactive insta
 1. **[View projects](projects/README.md)** — Find project descriptions, diagrams, demos, and code as they are published.
 2. **[Read about me](https://github.com/pranavkb7)** — See my background, areas of work, and tools.
 3. **[Contact me](mailto:pranavkbijith@gmail.com)** — Get in touch about a project or collaboration.
+
+## HYTECS company projects
+
+A dedicated section for documenting my project work with **HYTECS**: the brief, my responsibilities, system setup, delivery, and results.
+
+**[Open HYTECS projects →](projects/hytecs/README.md)**
 
 ## Current status
 
@@ -42,6 +50,8 @@ The portfolio structure is ready. **Project case studies and demos have not yet 
 | :--- | :--- |
 | **README.md** | This overview and navigation guide |
 | **[projects/](projects/README.md)** | The project list and individual case studies |
+| **[projects/hytecs/](projects/hytecs/README.md)** | HYTECS company project case studies |
+| **[docs/hytecs-project-template.md](docs/hytecs-project-template.md)** | A template for a HYTECS company project |
 | **[docs/project-template.md](docs/project-template.md)** | A template for documenting a new project |
 | **portfolio.svg** | The portfolio banner |
 
@@ -56,4 +66,5 @@ The portfolio structure is ready. **Project case studies and demos have not yet 
 
 **Pranav K B** · AV Systems & Immersive Experience Engineer · Dubai, UAE  
 [GitHub profile](https://github.com/pranavkb7) · [Email](mailto:pranavkbijith@gmail.com)
+
 
