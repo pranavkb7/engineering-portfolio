@@ -8,6 +8,12 @@
 
 As projects are added, this page will link to each case study and briefly explain what the system does.
 
+## HYTECS company projects
+
+**[Open HYTECS projects →](hytecs/README.md)**
+
+Company project case studies have a dedicated section with a template for recording the project brief, my role, technical setup, and results.
+
 ## What each case study will include
 
 - What the project needed to achieve.
@@ -23,3 +29,4 @@ As projects are added, this page will link to each case study and briefly explai
 3. Replace the template guidance with the actual project details.
 4. Add screenshots, a system diagram, or a short demo where available.
 5. Add a link to the case study under **Project list**, with one sentence explaining what it does.
+
