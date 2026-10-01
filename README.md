@@ -1,33 +1,53 @@
-# Pranav K B — Engineering Portfolio
+<p align="center">
+  <img src="portfolio.svg" width="100%" alt="Pranav K B — Engineering Portfolio: AV systems, interactive installations, and practical event tools" />
+</p>
 
-**AV Systems & Immersive Experience Engineer · Dubai, UAE**
+<p align="center">
+  <a href="projects/README.md"><strong>Project index ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="docs/project-template.md">Case study format</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/pranavkb7">About Pranav</a>
+</p>
 
-A portfolio for documenting practical work in video engineering, interactive installations, show control, and hardware integration.
+<br />
 
-## Project collection
+## From requirement to real-world interaction.
 
-Project documentation is being prepared. Browse the [project index](projects/README.md) as case studies are added.
+This portfolio documents my work across AV systems, interactive installations, show control, and hardware integration. Each case study will explain what the system needed to do, how it was built, and how it performed.
 
-| Area | What the case studies will cover |
-| --- | --- |
-| Interactive systems | Sensor input, real-time visuals, and visitor interaction |
-| Show control | OSC, UDP, TCP, DMX, and Art-Net integration |
-| Hardware integration | Microcontrollers, motor control, and physical interfaces |
-| Video engineering | Playback workflows, display mapping, and AV signal flow |
-| Event applications | Custom tools, registration flows, and interactive applications |
+**Project documentation is being prepared.** The [project index](projects/README.md) will link to case studies as they are published.
 
-## Repository guide
+### Areas of exploration
 
-| Location | Purpose |
-| --- | --- |
+| Area | Engineering focus |
+| :--- | :--- |
+| **Interactive systems** | Sensor input, real-time visuals, and visitor interaction |
+| **Show control** | OSC, UDP, TCP, DMX, and Art-Net integration |
+| **Hardware integration** | Microcontrollers, motor control, and physical interfaces |
+| **Video engineering** | Playback workflows, display mapping, and AV signal flow |
+| **Event applications** | Custom tools, registration flows, and interactive applications |
+
+<br />
+
+## How the work is documented
+
+**Requirement → System design → Implementation → Testing → Demo**
+
+A project folder contains a README explaining the system, supported by images, diagrams, or demo links. Source code can live alongside the case study or in a dedicated repository linked from it.
+
+| Location | What you’ll find |
+| :--- | :--- |
 | [projects/](projects/README.md) | Project index and individual case studies |
-| [docs/project-template.md](docs/project-template.md) | Consistent format for documenting a project |
+| [docs/project-template.md](docs/project-template.md) | A reusable format covering setup, operation, testing, and lessons learned |
 
-A project folder should contain a README explaining the system, with supporting images, diagrams, or demo links. Source code can live alongside the case study or in a dedicated repository linked from it.
+---
 
-## About
-
-I work with video, lighting, networking, show control, and interactive hardware, with a background in mechatronics.
-
-[GitHub profile](https://github.com/pranavkb7) · [Email](mailto:pranavkbijith@gmail.com)
+<p align="center">
+  <strong>Pranav K B</strong><br />
+  AV Systems & Immersive Experience Engineer · Dubai, UAE<br /><br />
+  <a href="https://github.com/pranavkb7">GitHub profile</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:pranavkbijith@gmail.com">Contact</a>
+</p>
 
