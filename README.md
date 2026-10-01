@@ -1,53 +1,59 @@
 <p align="center">
-  <img src="portfolio.svg" width="100%" alt="Pranav K B — Engineering Portfolio: AV systems, interactive installations, and practical event tools" />
+  <img src="portfolio.svg" width="100%" alt="Pranav K B — Engineering Portfolio: AV systems, interactive installations, and event tools" />
 </p>
 
 <p align="center">
-  <a href="projects/README.md"><strong>Project index ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="docs/project-template.md">Case study format</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://github.com/pranavkb7">About Pranav</a>
+  <a href="projects/README.md"><strong>View projects</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/pranavkb7">About me</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:pranavkbijith@gmail.com">Contact me</a>
 </p>
 
-<br />
+## Welcome
 
-## From requirement to real-world interaction.
+I’m **Pranav K B**, an AV Systems & Immersive Experience Engineer based in Dubai.
 
-This portfolio documents my work across AV systems, interactive installations, show control, and hardware integration. Each case study will explain what the system needed to do, how it was built, and how it performed.
+This portfolio is organized to show how I build video systems, interactive installations, show control, hardware integrations, and practical event applications.
 
-**Project documentation is being prepared.** The [project index](projects/README.md) will link to case studies as they are published.
+## Start here
 
-### Areas of exploration
+1. **[View projects](projects/README.md)** — Find project descriptions, diagrams, demos, and code as they are published.
+2. **[Read about me](https://github.com/pranavkb7)** — See my background, areas of work, and tools.
+3. **[Contact me](mailto:pranavkbijith@gmail.com)** — Get in touch about a project or collaboration.
 
-| Area | Engineering focus |
+## Current status
+
+The portfolio structure is ready. **Project case studies and demos have not yet been published.**
+
+## Project areas
+
+| Area | What it means |
 | :--- | :--- |
-| **Interactive systems** | Sensor input, real-time visuals, and visitor interaction |
-| **Show control** | OSC, UDP, TCP, DMX, and Art-Net integration |
-| **Hardware integration** | Microcontrollers, motor control, and physical interfaces |
-| **Video engineering** | Playback workflows, display mapping, and AV signal flow |
-| **Event applications** | Custom tools, registration flows, and interactive applications |
+| Video systems | Video playback, LED display mapping, and video switching |
+| Interactive installations | Systems that respond to a visitor’s movement, touch, or sensor input |
+| Show control | Connecting video, lighting, and hardware so they work together |
+| Hardware integration | Microcontrollers, motors, sensors, and physical controls |
+| Event applications | Software for visitor interaction and event workflows |
 
-<br />
+## Find your way around
 
-## How the work is documented
-
-**Requirement → System design → Implementation → Testing → Demo**
-
-A project folder contains a README explaining the system, supported by images, diagrams, or demo links. Source code can live alongside the case study or in a dedicated repository linked from it.
-
-| Location | What you’ll find |
+| File or folder | Purpose |
 | :--- | :--- |
-| [projects/](projects/README.md) | Project index and individual case studies |
-| [docs/project-template.md](docs/project-template.md) | A reusable format covering setup, operation, testing, and lessons learned |
+| **README.md** | This overview and navigation guide |
+| **[projects/](projects/README.md)** | The project list and individual case studies |
+| **[docs/project-template.md](docs/project-template.md)** | A template for documenting a new project |
+| **portfolio.svg** | The portfolio banner |
+
+## Add a new project
+
+1. Create a folder inside `projects/` with a clear name, such as `sensor-controlled-playback`.
+2. Copy the [project template](docs/project-template.md) into that folder as `README.md`.
+3. Add the actual project details, setup instructions, screenshots, and demo links.
+4. Link the new case study from the [project list](projects/README.md).
 
 ---
 
-<p align="center">
-  <strong>Pranav K B</strong><br />
-  AV Systems & Immersive Experience Engineer · Dubai, UAE<br /><br />
-  <a href="https://github.com/pranavkb7">GitHub profile</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:pranavkbijith@gmail.com">Contact</a>
-</p>
+**Pranav K B** · AV Systems & Immersive Experience Engineer · Dubai, UAE  
+[GitHub profile](https://github.com/pranavkb7) · [Email](mailto:pranavkbijith@gmail.com)
 
